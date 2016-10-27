@@ -1,0 +1,8 @@
+- Each turn the freighters will move 1 unit forward.
+- The Rebels may perform the Boost action on up to 3 freighters each turn INSTEAD OF their regular movement.
+  If the Freighter's cargo has been revealed and it is carrying rebels, it may move and perform the boost action normally.
+- The Empire's player may perform an Inspect action on any freighters that are in range 1 of the ship he has the "Scout" title on.
+  If he does, flip that freighter's cargo token.
+- Once the rebels are found, remove the freighters containing other cargo from the game.
+- If the cargo is found out to be rebels, the Empire may attack the freighter. If the freighter carrying rebels is destroyed, the game ends.
+- If the Freighter reaches the Empire's edge of the playing field, its cargo is revealed. If rebels are revealed this way, the game ends.

@@ -1,0 +1,7 @@
+Empire
+- Locate the freighter containing the rebels.
+- Destroy the freighter carrying rebels before it can jump away.
+
+Rebels
+- Protect the freighter containing rebels.
+- Jump with the freighter (leave the play area on the Empire's edge)
