@@ -1,0 +1,5 @@
+Empire
+- Protect Outpost D-34 until the arrival of ISS Hammer (10 turns)
+
+Rebels
+- Destroy Outpost D-34 before the arrival of ISS Hammber (10 turns)

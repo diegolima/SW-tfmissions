@@ -1,0 +1,5 @@
+Empire
+- Outpost D-34 is still alive by the end of turn 10
+
+Rebels
+- Outpost D-34 is destroyed before the end of turn 10

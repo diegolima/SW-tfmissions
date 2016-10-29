@@ -1,0 +1,9 @@
+- Imperial Respawn: Whenever an player-controlled imperial miniature is destroyed it is not removed from the game. 
+  Instead it is placed on its original starting location after 1 turn has passed since its destruction.
+
+- Imperial victory timer (10 turns): At the end of turn 10 the Empire wins the game unless the Rebels have accomplished their mission goal.
+
+- Rebel Reinforcements (Y-Wings - 1 wave): Whenever all player-controlled Y-Wing rebel miniatures are destroyed the game does not end.
+  Instead they are all placed on their original starting location immediately after the last miniature is destroyed. They keep any upgrade
+  cards they may have been carrying.
+  This effect happens once and only if the reinforcement wave has not joined the game due to other effects.

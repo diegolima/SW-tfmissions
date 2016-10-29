@@ -1,0 +1,5 @@
+- Place the "Patrol Outpost D-34" token centralized on the Empire side of the board.
+- Place the TIE Fighters as close as possible to Outpost D-34. New TIE Fighters also spawn at these positions.
+- Place the Y-Wings and X-Wings on the Rebel side of the board following normal placement rules.
+- Place 2 proton torpedoes on each Y-Wing
+- Place a proton torpedoe on the X-Wing
